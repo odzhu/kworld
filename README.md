@@ -28,6 +28,10 @@ Projects
 * Linkerd - the old school.
 * conduit
 
+### Application tracing
+* [Zipkin](https://zipkin.io) - distributed tracing system. 
+* [Vizceral](WebGL visualization for displaying animated traffic graphs)
+
 ### Packages
 *  Helm - package managing
 *  Helmfile
@@ -45,7 +49,7 @@ Projects
 *  Stash - backup kubernetes volumes
 
 ### Security
-*  notary project that allows anyone to have trust over arbitrary collections of data
+*  [Notary](https://github.com/theupdateframework/notary) project that allows anyone to have trust over arbitrary collections of data
 
 ### CI/CD/Workflow
 *  Argo
