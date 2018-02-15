@@ -23,14 +23,17 @@ Projects
 * [Spinnaker](https://github.com/spinnaker/spinnaker) - cross-cloud continuous deployment.
 * Contour - envoy ingress controller
 
+### Developer environment
+* [Telepresence](https://github.com/datawire/telepresence) - local development against a remote Kubernetes or OpenShift cluster
+
 ### Service mesh
-* Istio
-* Linkerd - the old school.
-* conduit
+* [Istio](https://istio.io) - an open platform to connect, manage, and secure microservices
+* [Linkerd](https://linkerd.io) - service mesh from apache
+* [Conduit](https://conduit.io) - new service mesh from linkerd makers
 
 ### Application tracing
 * [Zipkin](https://zipkin.io) - distributed tracing system. 
-* [Vizceral](WebGL visualization for displaying animated traffic graphs)
+* [Vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
 
 ### Packages
 *  Helm - package managing
@@ -53,6 +56,9 @@ Projects
 
 ### CI/CD/Workflow
 *  Argo
+* [brigade](https://brigade.sh) - event driven scripting for K8s
+* [kashti](https://brigade.sh/#kashti) - dashboard for brigade
+* [Crosscloudci](https://github.com/crosscloudci) - Integrating, testing, and deploying projects within the #CNCF ecosystem across multiple cloud providers
 
 ### Identity
 
