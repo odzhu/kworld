@@ -53,6 +53,8 @@ Projects
 
 ### Security
 *  [Notary](https://github.com/theupdateframework/notary) project that allows anyone to have trust over arbitrary collections of data
+*  [Grafeas](https://grafeas.io) - An open artifact metadata API to audit and govern your software supply chain
+*  [OpenSCAP](https://www.open-scap.org) - Security auditing scaning and auditing 
 
 ### CI/CD/Workflow
 *  Argo
