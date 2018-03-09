@@ -49,7 +49,8 @@ Projects
 
 ### Storage
 
-*  Stash - backup kubernetes volumes
+*  [Stash](https://appscode.com/products/stash/) - backup kubernetes volumes, operator for Rectic
+*  [Restic](https://github.com/restic/restic) - cloud integrated backup tools
 
 ### Security
 *  [Notary](https://github.com/theupdateframework/notary) project that allows anyone to have trust over arbitrary collections of data
